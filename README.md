@@ -2,6 +2,7 @@
 
 > **High-accuracy multi-person fatigue and driver attention tracking using MediaPipe Face Mesh, 3D Pose Estimation, and a multi-stage alert engine.**
 
+
 NapNot is a professional driver monitoring system (DMS) that tracks multiple faces simultaneously. It extracts 3D eye, mouth, and head pose metrics to calculate an intelligent 0-100 Fatigue Index, triggering staged alarms when fatigue is detected.
 
 ---
