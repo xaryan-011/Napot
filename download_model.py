@@ -24,7 +24,7 @@ MODEL_BZ2 = "shape_predictor_68_face_landmarks.dat.bz2"
 MODEL_DAT = "shape_predictor_68_face_landmarks.dat"
 
 ALERT_WAV = "alert.wav"
-ALERT_FREQ = 1000       # Hz  (tone frequency)
+ALERT_FREQ = 1000       
 ALERT_DURATION = 2.0    # seconds
 ALERT_SAMPLE_RATE = 44100
 ALERT_AMPLITUDE = 30000  # max 32767 for 16-bit
